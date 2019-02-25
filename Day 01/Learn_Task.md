@@ -1,5 +1,5 @@
 # 一、学习任务 (Task)
-### 1. 掌握 Python 基本的语法
+### 1. 学习使用Git上传文件至Github && 掌握 Python 基本的语法
 
 # 二、预备知识 (Knowledge)
 ### 数据结构和函数

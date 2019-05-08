@@ -10,7 +10,7 @@
 
 ## Task 1
 
-- **Numpy** + Related-work
+- **Numpy** + Homework 1
 
 ## Task 2
 
@@ -22,11 +22,11 @@
 
 ## Task 4
 
-- **数据聚合** + **Pandas 进阶** + Related-work
+- **数据聚合** + **Pandas 进阶** + Homework 2
 
 ## Task 5
 
-- **Matplotlib** + Related-work
+- **Matplotlib** + Homework 3
 
 ## Task 6
 
